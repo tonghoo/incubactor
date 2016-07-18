@@ -1,0 +1,11 @@
+This project analyzes 5 datasets. All of them are datasets about Chicago. Four of them can be downloaded at https://data.cityofchicago.org/ and the rest one can be downloaded at http://www.zillow.com/research/data/.
+
+The first dataset is "Average Daily Traffic Counts". Average Daily Traffic (ADT) counts are analogous to a census count of vehicles on city streets. These counts provide a close approximation to the actual number of vehicles passing through a given location on an average weekday. It provides the total volume of each locations and the exact locations (latitude/longitude). It contains 1279 observations and 9 variables. Url:https://data.cityofchicago.org/Transportation/Average-Daily-Traffic-Counts/pfsx-4n4m
+
+"Business licenses" is dataset recorded imformaton of business licenses issued by the Department of Business Affairs and Consumer Protection in the City of Chicago. It provides names of company, types of the company, zip codes and locations. It contains 871197 records. Url:https://data.cityofchicago.org/Community-Economic-Development/Business-Licenses/r5kz-chrr
+
+"Schools" is a file of public and private schools located in Chicago. It provides locations(latitude/longitude form) and names of school. It contains 1029 observations. Url:https://data.cityofchicago.org/Education/Schools/kqmn-byj8
+
+"Zip codes" is a dataset contains bounddaries and area of each zip codes zones of Chicago. It contains 4 variables and 70 observations. Url:https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-ZIP-Codes/gdcf-axmw
+
+"Zip_Zhvi_SingleFamilyResidence" records price of single family residences' property from all over U.S. It contains record from 1996-presents. It provides median home value of each zip code zone. It contains 13277 observations adn 249 variables. Url:http://files.zillowstatic.com/research/public/Zip/Zip_Zhvi_SingleFamilyResidence.csv
